@@ -108,7 +108,7 @@
 
 		<div class="copy">
 			<p>
-				&copy Made with <i class="fa fa-heart" style="color: #c0392b"></i> by Adzkar Fauzie R | October 2017
+				&copy Made with <i class="fa fa-heart" style="color: #c0392b"></i> By Chandra IT | 2023
 			</p>
 		</div>
 	</div><!-- footer -->
